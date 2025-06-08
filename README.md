@@ -42,8 +42,18 @@ Bellek kodunun oluşturulması
 Tek bitlik hatanın tespiti ve düzeltilmesi
 Çift bitlik hata durumunun tespiti
 Detaylı hata raporu
-# Geliştirici
 
+<img width="1440" alt="Ekran Resmi 2025-06-08 21 36 41" src="https://github.com/user-attachments/assets/460689a7-4745-4fcf-8bd9-d77cc4c38ad1" />
+
+![Uploading Ekran Resmi 2025-06-08 21.36.47.png…]()
+
+<img width="1440" alt="Ekran Resmi 2025-06-08 21 37 07" src="https://github.com/user-attachments/assets/20115bc7-82be-4675-9b5e-46e3d29696f5" />
+
+
+
+
+
+# Geliştirici
 Hilal Kaya
 BLM230 Dersi - 2025 Proje Ödevi
 
