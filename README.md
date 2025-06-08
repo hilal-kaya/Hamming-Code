@@ -44,8 +44,8 @@ Tek bitlik hatanın tespiti ve düzeltilmesi
 Detaylı hata raporu
 
 <img width="1440" alt="Ekran Resmi 2025-06-08 21 36 41" src="https://github.com/user-attachments/assets/460689a7-4745-4fcf-8bd9-d77cc4c38ad1" />
+<img width="1440" alt="Ekran Resmi 2025-06-08 21 36 47" src="https://github.com/user-attachments/assets/a94335ff-f172-46d9-bd08-fa322ab77197" />
 
-![Uploading Ekran Resmi 2025-06-08 21.36.47.png…]()
 
 <img width="1440" alt="Ekran Resmi 2025-06-08 21 37 07" src="https://github.com/user-attachments/assets/20115bc7-82be-4675-9b5e-46e3d29696f5" />
 
